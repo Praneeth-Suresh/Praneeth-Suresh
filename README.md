@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me
+Hi there. I'm a passionate AI Developer, always on the lookout for outside-the-box, challenging and innovative ML or AI projects to work on. As a self-taught developer, I am driven by curiosity and relish in the art of problem solving.
+
+### My work
+I have worked with Machine Learning models and Artificial Intelligence techniques from across the board. My earliest projects involved work on baseline Artificial Neural Networks (ANNs) before expanding into more complex models for time series (RNNs, LSTMs and HMMs) and image handling (CNNs). Recently, I’ve been working on integrating Foundation Models into useful applications.
+Concurrently, I have been developing my app development skills using tools including Django, Flask, React, Node.js and Firebase.
 
 <!--
 **Praneeth-Suresh/Praneeth-Suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
