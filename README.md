@@ -1,21 +1,13 @@
-## About me
-Hi there. I'm a passionate AI Developer, always on the lookout for outside-the-box, challenging and innovative **ML or AI projects** to work on. As a self-taught developer, I am driven by *curiosity* and relish in *the art of problem solving*.
+### Hi, I'm Praneeth Suresh 👋
 
-### My work
-I have worked with **Machine Learning models** and Artificial Intelligence techniques from across the board. My earliest projects involved work on baseline Artificial Neural Networks (ANNs) before expanding into more complex models for time series (RNNs, LSTMs and HMMs) and image handling (CNNs). Recently, I’ve been working on explainable AI, in particular an exploration of representation analysis. I am looking to apply this technique to a diverse range of problems.
+I study **Computer Science & Mathematics at NUS** (perfect GPA) and serve as the **Tech & Research Director of the NUS AI Society**. 
 
-Concurrently, I have been doing significant work in **app development**. I have been studyiung the SWE process and how it can be best augumented using AI.
-<!--
-**Praneeth-Suresh/Praneeth-Suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work focuses on bridging mathematical ML research with clean, high-performance systems engineering.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 **Research & Engineering Interests**: Explainable AI (focusing on Representation Analysis), Model Fusion
+- 🛠️ **Selected Projects**:
+  - [Notes](file:///home/prane/vibing/OutreachMachine/Notes): Public knowledge hub of academic notes and papers.
+  - [AgentCoding](file:///home/prane/vibing/OutreachMachine/AgentCoding): Inspectable, agentic coding workflows.
+  - [LOBForecasting](file:///home/prane/vibing/OutreachMachine/LOBForecasting): Math-heavy deep learning applied to order-book forecasting.
+- 💬 **Ask me about**: Technical write-ups, paper implementations, or collaboration opportunities with the NUS AI Society.
+- ✉️ **Contact**: [Personal Website](https://notes.praneeth-suresh-s.workers.dev/) | [LinkedIn](https://linkedin.com/in/praneeth-suresh) | praneeth.suresh.s@gmail.com
