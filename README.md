@@ -12,3 +12,12 @@ My work focuses on bridging mathematical ML research with clean, high-performanc
   - [ContentAgent](https://github.com/Praneeth-Suresh/ContentAgent): local marketing-agent app with deterministic test doubles and live model routing.
 - **Ask me about**: technical write-ups, paper implementations, interpretable ML systems, or collaboration opportunities with the NUS AI Society.
 - **Contact**: [Personal website](https://notes.praneeth-suresh-s.workers.dev/) | [LinkedIn](https://linkedin.com/in/praneeth-suresh) | praneeth.suresh.s@gmail.com
+
+On the side, I’m building **Beryl** 💎, an open-source framework that makes repositories ready for coding agents.
+
+Why I built it:
+- AGENTS.md is necessary, but not sufficient.
+- Repos need durable checks and reviewable evidence.
+- `./.beryl/scripts/check.sh` is the deterministic gate I care about.
+
+If you maintain repos with AI-assisted workflows, I’d love your critique.
