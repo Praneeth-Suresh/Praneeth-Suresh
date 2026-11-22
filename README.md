@@ -1,23 +1,17 @@
-### Hi, I'm Praneeth Suresh
+# Hi, I’m Praneeth Suresh
 
-I study **Computer Science & Mathematics at NUS** (perfect GPA) and serve as the **Tech & Research Director of the NUS AI Society**. 
+I study Computer Science and Mathematics at NUS. My main research interest is **robot learning**: how can a robot adapt to unfamiliar objects and situations without retraining its base policy? I also build tools that make **AI-assisted software development** easier to verify.
 
-My work focuses on bridging mathematical ML Research with high-performance systems engineering.
+## What I’m working on
 
-- **Research and engineering interests**: representation analysis, model fusion, interpretable ML, agentic software engineering systems, and technical writing.
-- **Selected projects**:
-  - [Notes](https://github.com/Praneeth-Suresh/Notes): public knowledge hub of CS notes, paper readings, and project write-ups.
-  - [AgentCoding](https://github.com/Praneeth-Suresh/AgentCoding): inspectable operating system for agent-assisted software work.
-  - [LOBForecasting](https://github.com/Praneeth-Suresh/LOBForecasting): mid-price forecasting experiments on limit order book data with interpretability notes.
-  - [ContentAgent](https://github.com/Praneeth-Suresh/ContentAgent): local marketing-agent app with deterministic test doubles and live model routing.
-- **Ask me about**: technical write-ups, paper implementations, interpretable ML systems, or collaboration opportunities with the NUS AI Society.
-- **Contact**: [Personal website](https://notes.praneeth-suresh-s.workers.dev/) | [LinkedIn](https://linkedin.com/in/praneeth-suresh) | praneeth[dot]suresh[dot]s[at]gmail[dot]com
+- [Robot Policy](https://github.com/Praneeth-Suresh/robot-policy): manipulation baselines and experiments with guidance for diffusion, flow-matching, and stochastic-interpolant policies.
+- [Beryl](https://github.com/Praneeth-Suresh/Beryl): repository workflows and deterministic checks for teams using coding agents. The [project write-up](https://notes.praneeth-suresh-s.workers.dev/projects/beryl/) shows one check rejecting a change and explains what that check can and can’t establish.
+- [Structure and Interpretation of Agentic Patterns](https://github.com/Praneeth-Suresh/SIAP): a book in progress about how agent systems work, taught by building them.
+- [Open Notebook](https://notes.praneeth-suresh-s.workers.dev/): study notes, paper readings, and project write-ups.
 
-On the side, I’m building **Beryl** 💎, an open-source framework that makes repositories ready for coding agents.
+## Selected hackathon projects
 
-Why I built it:
-- AGENTS.md is necessary, but not sufficient.
-- Repos need durable checks and reviewable evidence.
-- `./.beryl/scripts/check.sh` is the deterministic gate I care about.
+- [Sentinel / AirportOps](https://github.com/Praneeth-Suresh/AirportOps) · Aviation Track runner-up, [GenAI Fund Agentic AI Build Week 2026](https://agenticaibuildweek.genaifund.ai/). I contributed to the backend and algorithms for our team’s airport-operations decision-support prototype.
+- [SPEC](https://www.nusproductclub.com/events/vibe-building-hackathon) · Third place, Manus AI × NUS Product Club Vibe-Building Hackathon (2025). Our team built a prototype that turns student communications into deadlines, calendar items, and tasks.
 
-If you maintain repos with AI-assisted workflows, I’d love your critique.
+[Website](https://notes.praneeth-suresh-s.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/praneeth-suresh/)
