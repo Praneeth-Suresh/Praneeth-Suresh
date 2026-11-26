@@ -4,7 +4,7 @@ I study Computer Science and Mathematics at NUS. My main research interest is **
 
 ## What I’m working on
 
-- [Robot Policy](https://github.com/Praneeth-Suresh/robot-policy): manipulation baselines and experiments with guidance for diffusion, flow-matching, and stochastic-interpolant policies.
+- [Robot Policy](https://github.com/Praneeth-Suresh/robot-policy): manipulation baselines and reproducible evaluation of guidance for diffusion, flow-matching, and stochastic-interpolant policies, including trace validation, paired comparisons, and regression replay. Its initial five-seed Push-T comparison found 2/5 native successes with guidance versus 0/5 without; the gate reported REGRESSION—evidence for the workflow, not general superiority.
 - [Beryl](https://github.com/Praneeth-Suresh/Beryl): repository workflows and deterministic checks for teams using coding agents. The [project write-up](https://notes.praneeth-suresh-s.workers.dev/projects/beryl/) shows one check rejecting a change and explains what that check can and can’t establish.
 - [Structure and Interpretation of Agentic Patterns](https://github.com/Praneeth-Suresh/SIAP): a book in progress about how agent systems work, taught by building them.
 - [Open Notebook](https://notes.praneeth-suresh-s.workers.dev/): study notes, paper readings, and project write-ups.
